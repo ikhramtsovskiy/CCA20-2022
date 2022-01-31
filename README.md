@@ -22,7 +22,7 @@
    ![Откройте любую папку на своём компьютере](https://raw.githubusercontent.com/ikhramtsovskiy/CCA20-2022/main/img/screen01.png)
 2. Наберите в адресной строке **cmd** и нажмите кнопку **[Enter]**:
    ![Наберите в адресной строке cmd и нажмите кнопку Enter](https://raw.githubusercontent.com/ikhramtsovskiy/CCA20-2022/main/img/screen02.png)
-3. В открывшемся окне введите команду **git clone https://github.com/ikhramtsovskiy/CCA20-2022.git**:
+3. В открывшемся окне введите команду ```git clone https://github.com/ikhramtsovskiy/CCA20-2022.git```
    ![В открывшемся окне введите команду git clone https://github.com/ikhramtsovskiy/CCA20-2022.git](https://raw.githubusercontent.com/ikhramtsovskiy/CCA20-2022/main/img/screen03.png)
 4. Система контроля версий загружает файлы на локальный компьютер:
    ![Система контроля версий загружает файлы на локальный компьютер](https://raw.githubusercontent.com/ikhramtsovskiy/CCA20-2022/main/img/screen04.png)
