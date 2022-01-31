@@ -13,7 +13,7 @@
 - [Образ установочного диска UbuntuServer](https://releases.ubuntu.com/20.04/ubuntu-20.04.3-live-server-amd64.iso)
 - [Клиент удалённого доступа PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-## Инструкция. Как скопировать учебные материалы на свой компьютеров
+## Инструкция. Как скопировать учебные материалы на свой компьютер
 
 Для начала работы с репозиторием необходимо скачать и установить систему контроля версий GIT [https://git-scm.com/](https://git-scm.com/)
 
