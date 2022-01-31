@@ -1,6 +1,6 @@
 # Необходимое программное обеспечение:
 ## Базы данных
-- MySQL
+- Сервер базы данных MySQL
 - Инструмент для визуального проектирования баз данных MySQL Workbench
   
 Ссылка на загрузку установочного файла [https://dev.mysql.com/downloads/installer/](https://dev.mysql.com/downloads/installer/)
